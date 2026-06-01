@@ -1,0 +1,17 @@
+node_modules/
+dist/
+.env
+uploads/
+*.log
+coverage/
+.DS_Store
+
+# Frontend
+frontend/
+
+# Editor/IDE directories and files
+.vscode/
+.idea/
+.kiro/
+*.suo
+*.ntuser.dat*
